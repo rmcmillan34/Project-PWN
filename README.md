@@ -85,6 +85,51 @@ Additional Notes
 - Links to official websites for tools and software will be provided within the guides, enabling users to find resources for troubleshooting setup and usage issues.
 
 ---
+## TODO
+Here is a list of ongoing tasks required for Project PWN cyber range home-lab:
+
+### Hardware Build
+- [ ] Hardware Installation
+  - [ ] Installation Guide
+  - [ ] Installation Video
+- [ ] Hardware Configuration
+  - [ ] Boot Drive Order
+  - [ ] Travel Router Network Configuration
+- [ ] References/Resources
+### Proxmox Configuration
+- [ ] Install Proxmox
+  - [ ] Proxmox Installation Guide
+  - [ ] Proxmox Video
+- [ ] Configure Management Port
+### pfSense Configuration
+- [ ] Install pfSense
+  - [ ] pfSense VM Installation Guide
+  - [ ] pfSense VM Installation Video
+- [ ] Configure pfSense
+  - [ ] pfSense Configuration Guide
+  - [ ] pfSense Configuration Video
+### TrueNAS Configuration
+- [ ] TrueNAS Installation
+  - [ ] Installation Guide
+  - [ ] Installation Video
+- [ ] TrueNAS Configuration
+  - [ ] Create users
+  - [ ] Create shares
+### Vulnerable OS Configuration 
+- [ ] Vulnerable Applications reference list
+- [ ] Converting *.ova to .qcow2/.raw
+  - [ ] Create script to automate process
+  - [ ] Video on how to achieve manually
+- [ ] Converting vulnerable images to docker containers 
+- [ ] Install Metasploitable2
+- [ ] Install Metasploitable3 - Linux
+- [ ] Install Metasploitable3 - Windows
+- [ ] Install OWASP-JuiceShop
+- [ ] Install OWASP-
+
+
+
+---
 ## Contribution Guidelines
 ### Contributing
 
