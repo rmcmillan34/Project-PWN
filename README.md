@@ -63,6 +63,26 @@ Each directory contains detailed documentation, README files, and further subdir
 
 ---
 ## How to Use
+The primary goal of the Project PWN is to enable users to create their own PWN homelab, facilitating learning in the fields of virtualization and cybersecurity.
+
+**Prerequisites**
+To engage with the cyber range home lab setup, users will need hardware capable of hosting virtual machines. The hardware specifications of my personal build are provided in the hardware_build subdirectory, enabling users to replicate the setup.
+
+**Accessing Setup Guides**
+The setup guides and configurations are available online in the [GitHub repository](https://github.com/rmcmillan34/Project-PWN). Users can access these guides directly from the repository or fork their own version for personal use.
+
+**Installation Steps**
+Hardware Build: Build the hardware as outlined in the hardware_build subdirectory or ensure your hardware meets the specified requirements.
+Proxmox Hypervisor Installation: Install the Proxmox hypervisor following the provided setup guide.
+pfSense and Vulnerable Operating Systems: Configure and install pfSense followed by other vulnerable operating systems as detailed in the setup guides.
+
+**Connection and Accessibility**
+Connect your Project PWN homelab to your network. Once the vulnerable operating systems are configured, they should be accessible and ready for use.
+
+Additional Notes
+- No specific tools or software need to be preinstalled, as the setup guides should cover the necessary installations.
+- At this stage, the project is not complete, and as such, potential troubleshooting steps have not yet been identified.
+- Links to official websites for tools and software will be provided within the guides, enabling users to find resources for troubleshooting setup and usage issues.
 
 ---
 ## Contribution Guidelines
