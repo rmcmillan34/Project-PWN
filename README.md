@@ -22,14 +22,12 @@ PWN emerged from the necessity to maintain consistent access to a practical lear
 3. **CTF Challenges and Events:** Hosting and developing Capture The Flag challenges and events. This platform will be used for hosting and developing CTF challenges, sharing the learning experience with others while travelling, and fostering a community of learners to participate in and learn from real-world scenarios and cybersecurity challenges.
 
 ---
-
 ## Key Features
 - **Portability**: The lab is built on portable hardware (NUC) that allows for easy transportation without compromising its functionality.
 - **Self-Contained Infrastructure**: The cyber range is designed to operate independently, requiring minimal external resources or internet connectivity.
 - **Flexibility:** Offers the ability to simulate various cybersecurity scenarios, allowing users to experiment with different configurations and scenarios.
 
 ---
-
 ## Intended Audience
 This project is intended for:
 
@@ -39,7 +37,6 @@ This project is intended for:
 - Participants interested in engaging and learning through CTF challenges, CTF development and events.
 
 ---
-
 ## Project Structure
 
 The project is structured into several directories, each focusing on a specific aspect of the cyber range home lab setup.
@@ -56,16 +53,15 @@ The project is structured into several directories, each focusing on a specific 
 - **`/pfsense_configuration`**
   - Detailed guides on the setup and configuration of pfSense, including installation steps, network configuration, and security considerations.
 
-- **`/ctf_challenges`**
-  - This directory hosts various Capture The Flag challenges. Each challenge is organized within its own subdirectory, containing challenge descriptions and associated files.
+- **`/ctfd_configuration`**
+  - This directory hosts the configuration for the CTFd framework and various Capture The Flag challenges created by me. Each challenge is organized within its own subdirectory, containing challenge descriptions and associated files.
 
-- **`/contributing`**
-  - Information and guidelines for those interested in contributing to the project, including details on how to get involved, guidelines for contributing, and the contribution process.
+- **`/vulnerable_os_configuration`**
+  - Information and walkthroughs on setting up and configuring vulnerable operating systems, each vulnerable OS is organised within its own subdirectory.
 
 Each directory contains detailed documentation, README files, and further subdirectories to maintain a well-organized structure and provide easy access to specific information within the project.
 
 ---
-
 ## Requirements
 - [ ] Be able to run Virtual Machines
 - [ ] 
