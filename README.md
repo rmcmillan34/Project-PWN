@@ -42,10 +42,10 @@ This project is intended for:
 The project is structured into several directories, each focusing on a specific aspect of the cyber range home lab setup.
 
 - **`/hardware_build`**
-  - This directory contains information and guides pertaining to my chosen hardware configuration, including details about the components selected, and the setup process
+  - This directory contains information and guides about my chosen hardware configuration, including details about the components selected and the build and configuration process
 
 - **`/proxmox_configuration`**
-  - Here, you'll find instructions and configurations specifically tailored for Proxmox setup. This includes installation guides, networking setup, and storage configurations.
+  - Here, you'll find instructions and configurations tailored for Proxmox setup. This includes installation guides, networking setup, and storage configurations.
 
 - **`/truenas_configuration`**
   - Within this directory, you'll find information regarding TrueNAS configuration, covering installation, setup, and essential configurations.
@@ -54,16 +54,16 @@ The project is structured into several directories, each focusing on a specific 
   - Detailed guides on the setup and configuration of pfSense, including installation steps, network configuration, and security considerations.
 
 - **`/ctfd_configuration`**
-  - This directory hosts the configuration for the CTFd framework and various Capture The Flag challenges created by me. Each challenge is organized within its own subdirectory, containing challenge descriptions and associated files.
+  - This directory hosts the configuration for the CTFd framework and various Capture The Flag challenges I created. Each challenge is organized within its own subdirectory, containing challenge descriptions and associated files.
 
 - **`/vulnerable_os_configuration`**
-  - Information and walkthroughs on setting up and configuring vulnerable operating systems, each vulnerable OS is organised within its own subdirectory.
+  - Information and walkthroughs on setting up and configuring vulnerable operating systems; each vulnerable OS is organised within its own subdirectory.
 
 Each directory contains detailed documentation, README files, and further subdirectories to maintain a well-organized structure and provide easy access to specific information within the project.
 
 ---
 ## How to Use
-The primary goal of the Project PWN is to enable users to create their own PWN homelab, facilitating learning in the fields of virtualization and cybersecurity.
+The primary goal of Project PWN is to enable users to create their own PWN home-lab, facilitating learning in virtualization and cybersecurity.
 
 **Prerequisites**
 To engage with the cyber range home lab setup, users will need hardware capable of hosting virtual machines. The hardware specifications of my personal build are provided in the hardware_build subdirectory, enabling users to replicate the setup.
@@ -77,7 +77,7 @@ Proxmox Hypervisor Installation: Install the Proxmox hypervisor following the pr
 pfSense and Vulnerable Operating Systems: Configure and install pfSense followed by other vulnerable operating systems as detailed in the setup guides.
 
 **Connection and Accessibility**
-Connect your Project PWN homelab to your network. Once the vulnerable operating systems are configured, they should be accessible and ready for use.
+Connect your Project PWN home-lab to your network or a stand-alone network. Once the vulnerable operating systems are configured, they should be accessible and ready for use.
 
 Additional Notes
 - No specific tools or software need to be preinstalled, as the setup guides should cover the necessary installations.
@@ -88,7 +88,7 @@ Additional Notes
 ## Contribution Guidelines
 ### Contributing
 
-We welcome contributions to enhance and improve the Project PWN. Here are the guidelines and steps for contributing:
+We welcome contributions to enhance and improve Project PWN. Here are the guidelines and steps for contributing:
 
 #### How to Contribute
 
@@ -104,7 +104,7 @@ We welcome contributions to enhance and improve the Project PWN. Here are the gu
 4. **Make Changes**: Implement the desired changes or additions.
 5. **Commit Changes**: Commit your changes with clear and concise commit messages.
     ```bash
-    git commit -m "Brief description of changes"
+    git commit -m "Brief description of changes."
     ```
 6. **Push Changes**: Push your changes to your forked repository.
     ```bash
@@ -126,7 +126,8 @@ Thank you to all the contributors who have helped improve Project PWN! Your cont
 - Ryan McMillan ([@rmcmillan34](https://github.com/rmcmillan34/))
 - [Add your name here as you contribute!]
 
-If you'd like to become a contributor, simply follow the guidelines outlined above to get started.
+If you'd like to become a contributor, follow the above guidelines to get started.
 
 ---
 ## License
+Project PWN is licensed under the [MIT LICENSE](./LICENSE.md)
