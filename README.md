@@ -175,4 +175,4 @@ If you'd like to become a contributor, follow the above guidelines to get starte
 
 ---
 ## License
-Project PWN is licensed under the [MIT LICENSE](./LICENSE.md)
+Project PWN is licensed under the [MIT LICENSE](./LICENSE)
