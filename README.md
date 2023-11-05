@@ -123,7 +123,7 @@ We welcome contributions to enhance and improve the Project PWN. Here are the gu
 
 Thank you to all the contributors who have helped improve Project PWN! Your contributions are valuable and greatly appreciated.
 
-- Ryan McMillan (@rmcmillan34)
+- Ryan McMillan ([@rmcmillan34](https://github.com/rmcmillan34/))
 - [Add your name here as you contribute!]
 
 If you'd like to become a contributor, simply follow the guidelines outlined above to get started.
