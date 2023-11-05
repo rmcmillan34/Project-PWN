@@ -2,7 +2,7 @@
 ## Introduction
 
 ---
-# Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
 - [Purpose](#purpose)
 - [List of Components](#list-of-components)
