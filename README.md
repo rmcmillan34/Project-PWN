@@ -62,34 +62,51 @@ The project is structured into several directories, each focusing on a specific 
 Each directory contains detailed documentation, README files, and further subdirectories to maintain a well-organized structure and provide easy access to specific information within the project.
 
 ---
-## Requirements
-- [ ] Be able to run Virtual Machines
-- [ ] 
+## How to Use
 
 ---
+## Contribution Guidelines
+### Contributing
 
-## Hardware Components
-For the hardware component selection, I decided to utilise the Intel NUC platform for its performance and portability. The Intel NUC 9 Extreme also provided an additional ethernet interface to allow for a dedicated hypervisor management port.
+We welcome contributions to enhance and improve the Project PWN. Here are the guidelines and steps for contributing:
 
-I decided to include two storage SSDs, one for the hypervisor and a second to act as bulk storage for the NAS, to serve secure operating systems, vulnerable operating systems, and hacking resources to others who connect to this system.
+#### How to Contribute
 
-- Computer
-  - [Intel NUC 9 Extreme Ghost Canyon]()
-- Storage
-- RAM
+1. **Fork the Repository**: Start by forking this repository to your own GitHub account.
+2. **Clone the Repository**: Clone the forked repository to your local machine.
+    ```bash
+    git clone https://github.com/your-username/Project-PWN.git
+    ```
+3. **Create a New Branch**: Make changes in a new branch for each specific update or improvement.
+    ```bash
+    git checkout -b feature/your-feature
+    ```
+4. **Make Changes**: Implement the desired changes or additions.
+5. **Commit Changes**: Commit your changes with clear and concise commit messages.
+    ```bash
+    git commit -m "Brief description of changes"
+    ```
+6. **Push Changes**: Push your changes to your forked repository.
+    ```bash
+    git push origin feature/your-feature
+    ```
+7. **Create a Pull Request**: Visit the original repository on GitHub and create a Pull Request with a detailed description of your changes.
+
+#### Contribution Guidelines
+
+- Before contributing, ensure your proposed changes align with the project's objectives and guidelines.
+- Follow the existing code style and structure.
+- Be clear and descriptive in your commit messages and Pull Request descriptions.
+- Verify that your changes work effectively and do not break existing functionality.
+
+#### Contributors
+
+Thank you to all the contributors who have helped improve Project PWN! Your contributions are valuable and greatly appreciated.
+
+- Ryan McMillan (@rmcmillan34)
+- [Add your name here as you contribute!]
+
+If you'd like to become a contributor, simply follow the guidelines outlined above to get started.
+
 ---
-
-## Software Components
-
-- Hypervisor
-  - [Proxmox 7.2]()
-- NAS
-  - [TrueNAS]()
-- Penetration Testing Operating Systems
-  - [Kali Linux]()
-  - [Parrot OS]()
-  - [BlackArch]()
-- Vulnerable Operating Systems
-  - [Metasploitable2]()
-  - [Metasploitable3]()
-  - [VulnHub]()
+## License
