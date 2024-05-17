@@ -1,5 +1,5 @@
 # Project-PWN
-Project Portable Wargame NUC (PWN) is a comprehensive cyber range and home-lab designed to facilitate cybersecurity training anytime, anywhere. The primary focus of this project is to provide a portable and self-contained infrastructure for hands-on learning and experimentation in the field of cybersecurity.
+Project Portable Wargame Network (PWN) is a comprehensive cyber range and home-lab designed to facilitate cybersecurity training anytime, anywhere. The primary focus of this project is to provide a portable and self-contained infrastructure for hands-on learning and experimentation in the field of cybersecurity.
 
 ---
 ## Table of Contents
