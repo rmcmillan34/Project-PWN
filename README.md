@@ -15,7 +15,7 @@ Project Portable Wargame Network (PWN) is a comprehensive cyber range and home-l
 ---
 ## Purpose and Objectives
 
-PWN emerged from the necessity to maintain consistent access to a practical learning environment while being mobile, especially during extended work-related travel periods with limited or unreliable internet connectivity. By creating a self-contained cyber range, the primary objectives are:
+PWN emerged from my own necessity to maintain consistent access to a practical learning environment while being mobile, especially during extended work-related travel periods with limited or unreliable internet connectivity. By creating a self-contained cyber range, the primary objectives are:
 
 1. **Accessibility:** Enabling cybersecurity enthusiasts, professionals, and learners to have a mobile and self-sufficient platform for practical training, irrespective of their location or internet availability.
 2. **Skill Enhancement**: Serving as a learning platform for upskilling in the setup, maintenance, and management of a home-lab. It provides hands-on experience installing and configuring operating systems, creating virtual networks, and practicing ethical hacking concepts in a controlled environment.
